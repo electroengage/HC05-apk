@@ -13,3 +13,4 @@
 ```
 
 > BTW main dedication project [HC05-module](https://github.com/mdtamimcpp/HC05-module). Happy coding!!
+<!-- this app requires Bluetooth permission -->
